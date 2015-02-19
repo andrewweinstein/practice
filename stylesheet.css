@@ -1,0 +1,16 @@
+body{
+    background:gray;
+}
+
+.contact{
+    border: 11px solid red;
+    width: 355px; 
+    float: right;
+    color:#000000;
+}
+.hobbies{
+    border: 13px solid #dae2e8;
+    width: 430px;
+    float: left;
+    color:#1955da;
+}
